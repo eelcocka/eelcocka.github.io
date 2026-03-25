@@ -1,12 +1,12 @@
-#Finance, Sales Admin and BI Developer
+# Finance, Sales Admin and BI Developer
 
-###Eduacation
+### Eduacation
 Public Accountant
 
-#Work Experience
+# Work Experience
 BI Architect @ Garver
 -big imoact project 1!
 -big impact project 2!
 
-###Projects
+### Projects
 Automate P&L, GL and Cash Flow
